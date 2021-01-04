@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=lowerTriangular
+comment1.params=matrix\ row\ col
+comment1.target=void\ lowermat(int[][],\ int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
